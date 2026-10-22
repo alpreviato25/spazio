@@ -1,0 +1,5 @@
+spazio-dati/
+spazio-backup-*.json
+spazio-backup-*.spazio
+.DS_Store
+._*
